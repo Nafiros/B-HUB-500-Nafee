@@ -13,4 +13,4 @@ async def on_message(message):
     if message.author.name != "Nafee":
         await checker.is_command(message)
 
-client.run("NzY4OTY1ODU2Nzg4MzQ4OTcw.X5IJQg.6su8aWBGB9-wYykdRRYglwv4UGk")
+client.run("Your Token Here")
