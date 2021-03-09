@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="https://discordpy.readthedocs.io/en/latest/_images/snake.png" alt="Logo" width="310" height="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Discord.png" alt="Logo" width="310" height="200">
   </a>
 
   <h3 align="center">B-HUB-500-Nafee</h3>
