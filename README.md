@@ -17,7 +17,7 @@
   <h3 align="center">B-HUB-500-Nafee</h3>
 
   <p align="center">
-    Discord Bot - Just for fun
+    Discord Bot - Epitech HUB Experience
     <br />
     <br />
     <a href="https://github.com/Nafiros/B-HUB-500-Nafee/issues">Report Bug</a>
